@@ -8,4 +8,4 @@ https://github.com/TomSchimansky/CustomTkinter
 
 ![Alt Text](https://github.com/Steve-Shambles/BMI-Calc/blob/main/bmi-calc-v1.png)
 
-Note: Pyinstaller wouldn't\couldn't create an .exe file for this, solooks like I have to stick to plain old Tkinter until I find the solution.
+Note: Pyinstaller wouldn't\couldn't create an .exe file for this, so it looks like I will have to stick to plain old Tkinter until I find the solution.
