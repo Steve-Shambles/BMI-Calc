@@ -1,5 +1,5 @@
 # BMI-Calc
-A very simple Body Mass Index calculator with CustomTkinter GUI. 
+A Body Mass Index calculator, with CustomTkinter GUI. 
 
 I tried to improve on the dour stock look of Tkinter by using the addon CustomTkinter.
 Being a twat-noob I am sure I haven't done CTk any justice, but I tried my best.
