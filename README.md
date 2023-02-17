@@ -10,6 +10,6 @@ https://github.com/TomSchimansky/CustomTkinter
 
 Note: Pyinstaller wouldn't\couldn't create an .exe file for this, so it looks like I will have to stick to plain old Tkinter until I find the solution.
 
-![Alt Text](https://github.com/Steve-Shambles/BMI-Calc/blob/main/bmi-calc-v016-plain-tkinter.png)
+![Alt Text](https://github.com/Steve-Shambles/BMI-Calc/blob/main/bmi-calc-v1-tk-screenshot.png)
 
 Works on Windows 7, should work on Linux, not tested yet.
