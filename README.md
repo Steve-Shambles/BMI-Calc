@@ -1,5 +1,6 @@
 # BMI-Calc
-A Body Mass Index calculator, with Tkinter GUI. What annoys me about other similar programs is they only offer you option of pounds and meters whereas I personally still use stones and inches, others use kilograms, so I added those.
+A Body Mass Index calculator, with Tkinter GUI. What annoys me about other similar programs is they only offer you option of pounds and centimeters
+whereas I personally still use stones and inches, others use kilograms, so I added those.
 
 Take note that the BMI system itself is far from perfect and can get it very wrong for some body types,
 
